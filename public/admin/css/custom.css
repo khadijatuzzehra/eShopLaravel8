@@ -1,0 +1,18 @@
+.cate-image {
+    width: 200px;
+    height: 100px;
+}
+.cate-image2 {
+    width: 100px;
+    height: 100px;
+}
+.myImage {
+    margin: 50px;
+}
+.img {
+    position: absolute;
+    top: 50%;
+    width: auto;
+    height: 100%;
+    transform: translate(-50%, -50%);
+}
